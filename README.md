@@ -1,3 +1,6 @@
 # Ejemplo-git
 ## titulo2
-este texto
+este texto ashdjashfjashf
+
+- djfhdjfh
+- djkfdkf
