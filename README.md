@@ -1,3 +1,3 @@
 # Ejemplo-git
-##titulo2
+## titulo2
 este texto
